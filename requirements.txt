@@ -1,0 +1,8 @@
+python-docx
+nltk
+scikit-learn
+numpy
+pandas
+transformers  # Optional if you decide to use BERT for feature extraction
+gensim
+openpyxl
